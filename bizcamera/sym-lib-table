@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "RP2350A")(type "KiCad")(uri "${KIPRJMOD}/lib/RP2350A/MCU_RaspberryPi_RP2350.kicad_sym")(options "")(descr ""))
   (lib (name "ABM8-272-T3")(type "KiCad")(uri "${KIPRJMOD}/lib/ABM8_272_T3/KiCADv6/2025-05-01_14-09-23.kicad_sym")(options "")(descr ""))
+  (lib (name "USBLC6-2P6")(type "KiCad")(uri "${KIPRJMOD}/lib/USBLC6-2P6/2025-05-01_19-51-29.kicad_sym")(options "")(descr ""))
 )
