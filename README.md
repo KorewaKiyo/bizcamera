@@ -14,8 +14,8 @@ The chip itself doesn't have enough ram to store an image above 320x240 so I've 
 Yet to be seen :>
 
 ### What does the board look like?
-![top](<github_username>.github.io/<repo_name>/top.png)
-![bottom](<github_username>.github.io/<repo_name>/bottom.png)
+![top](<github_username>.github.io/bizcamera/top.png)
+![bottom](<github_username>.github.io/bizcamera/bottom.png)
 rendered with [kicad-render](https://github.com/linalinn/kicad-render)
 
 
