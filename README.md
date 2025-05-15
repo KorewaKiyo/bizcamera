@@ -6,7 +6,9 @@ I thought it was a cool and silly enough idea to be unique, and I couldn't find 
 
 ### How?
 Initially I wanted to go with something STM32, as the camera module wants 1.8V, and there were some good STM32 MCUs with 1.8v, but it seemed like none of them were fast enough or had enough RAM to grab frames from the sensor. 
-So I'm using the RP2350 and OV5640
+So I'm using the RP2350 which with PIO should have enough IO speed to just steal a frame off the data bus.
+
+The chip itself doesn't have enough ram to store an image above 320x240 so I've added some RAM, a flash chip for code, and an SD card slot for storing images.
 
 ### What's the output like?
 Yet to be seen :>
