@@ -1,5 +1,5 @@
 # BizCamera 
-## A business card sized camera
+## A credit/business card sized camera
 
 ### Why?
 I thought it was a cool and silly enough idea to be unique, and I couldn't find anyone else doing it. So I took it on myself to make it happen.
