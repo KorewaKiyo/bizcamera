@@ -20725,15 +20725,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7220"
-			(at 73.66 28.448 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "861a6749-fb0d-4a45-bd27-3521097a2f4a")
 		)
@@ -21171,15 +21162,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 68.58 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C7220"
-			(at 68.58 28.448 0)
 			(effects
 				(font
 					(size 1.27 1.27)
